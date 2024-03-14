@@ -1,0 +1,13 @@
+Leveraging bash_executor, create a python program that can be run on a robot that will execute the following task.
+
+task: {input}
+
+Reminder to use tools before giving final answer.
+
+Follow these steps in answering this question.
+
+write code -> use bash_executor -> ... continue until no errors ... -> return using final answer
+
+Once you receive a success, you have finished. Return your program as final answer.
+
+{agent_scratchpad}
